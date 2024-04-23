@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "web3": "^4.7.0"
+  }
+}
